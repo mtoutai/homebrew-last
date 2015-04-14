@@ -1,5 +1,5 @@
 # homebrew-last
-A homebrew repository for LAST ( lhttp://ast.cbrc.jp/ )
+A homebrew repository for LAST ( http://last.cbrc.jp/ )
 ## How to use this repository
 ```
 brew tap mtoutai/last
