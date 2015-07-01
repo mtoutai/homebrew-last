@@ -10,7 +10,6 @@ class Last < Formula
     bin.mkpath
     bin.install "src/lastal"
     bin.install "src/lastdb"
-    bin.install "src/lastex"
     bin.install "src/last-merge-batches"
     bin.install "src/last-pair-probs"
     bin.install "src/last-split"
@@ -18,6 +17,7 @@ class Last < Formula
     bin.install "scripts/last-dotplot"
     bin.install "scripts/last-map-probs"
     bin.install "scripts/last-postmask"
+    bin.install "scripts/last-train"
     bin.install "scripts/maf-convert"
     bin.install "scripts/maf-cull"
     bin.install "scripts/maf-join"
