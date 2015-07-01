@@ -1,7 +1,7 @@
 class Last < Formula
   homepage "http://last.cbrc.jp/"
-  url "http://last.cbrc.jp/last-548.zip"
-  sha256 "a76e807cb169a2c4a2b23a859e6955f925771687fb53362ee45899f7282cb6d4"
+  url "http://last.cbrc.jp/last-588.zip"
+  sha256 "22a7f006b760e9b082c5ed142de32fbbbe9635f8bb96544f57e695fa66080c91"
 
   depends_on "parallel"
 
