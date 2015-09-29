@@ -1,7 +1,7 @@
 class Last < Formula
   homepage "http://last.cbrc.jp/"
-  url "http://last.cbrc.jp/last-604.zip"
-  sha256 "9831cb73fc0f58f2c679b2e10360e6585d0f2a0a79b784b565a745eef54fa607"
+  url "http://last.cbrc.jp/last-621.zip"
+  sha256 "2768687f3e9ddd8b1dd80862d7d54e903d51d5a61869ad5a923fd06872484e4a"
 
   depends_on "parallel"
 
@@ -34,7 +34,7 @@ class Last < Formula
   bottle do
     root_url "https://github.com/mtoutai/homebrew-last/releases/download/bottles"
     cellar :any
-    sha256 "bdf60fb75bcf879e0b365e28e6ed3fe7cc155c68a334e23a37e6db417221af82" => :yosemite
+    sha256 "1f87f3802cbc4e41c159a565478be6f8e407f6dc3236f1c26d6ca5431a8154eb" => :yosemite
   end
 
 end
