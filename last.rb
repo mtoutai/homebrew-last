@@ -35,6 +35,8 @@ class Last < Formula
     root_url "https://github.com/mtoutai/homebrew-last/releases/download/bottles"
     cellar :any
     sha256 "1f87f3802cbc4e41c159a565478be6f8e407f6dc3236f1c26d6ca5431a8154eb" => :yosemite
+    revision 1
+    sha256 "66522292b0918402e8d17b03744747c16f5b2c25f15caabc38bdbabb9d41276f" => :el_capitan
   end
 
 end
